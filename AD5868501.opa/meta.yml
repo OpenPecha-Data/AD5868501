@@ -1,0 +1,19 @@
+id: AD5868501
+title: Calling the Guru from Afar
+type: translation
+pechas:
+- IB9A29CEA
+- IBC99DE30
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:09:05.815896
+  last_modified_at: 2023-01-04 12:09:05.815906
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IB9A29CEA/28A0: 5F37
+  IBC99DE30/53DC: 5F37
